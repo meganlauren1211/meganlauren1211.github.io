@@ -5,3 +5,15 @@ h1{
   width: 100%;
   text-align: center;
 }
+#navigation-bar{
+  position: relative;
+  right: 0;
+  width: 25%;
+}
+
+#content{
+  position: relative;
+  left: 0;
+  width: 75%;
+}
+
