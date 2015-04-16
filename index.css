@@ -6,14 +6,12 @@ h1{
   text-align: center;
 }
 #navigation-bar{
-  position: relative;
-  right: 0;
+  float: right;
   width: 25%;
 }
 
 #content{
-  position: relative;
-  left: 0;
+  float: left;
   width: 75%;
 }
 
